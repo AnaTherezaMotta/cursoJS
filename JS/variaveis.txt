@@ -1,0 +1,17 @@
+var curso = "JavaScript"; -> string
+JavaScript ou JS -> é uma linguagem de programação 
+- foi criada em 1995 por Brendhan Eich
+- foi criada com o objetivo de oferecer ao desenvolvedores formas de tonar determinados processos de página web mais dinâmicos,
+tornando o seu uso mais agradável.
+- Ao invés de rodar remotamente em servidores da internet, o JavaScript tem como característica rodar programas localmente - do lado do cliente.
+- o JS oferece as páaginas web a possibilidade de programação, transformação e processamento de dados enviados e recebidos, interagindo com a marcação e exibição de conteúdo da linguagem HTML e com CSS.
+
+diferença entre var, let e const{
+    var nome = "Ana"
+
+}
+let -> você alterear e acessar a variável somente dentro do escopo de onde ele é criado 
+let tem um escopo de bloco, então sempre que criamos dentro de um IF ou uma função ou condição temos acesso a ele dentro desse escopo de bloco {};
+var -> conseguimos ter acesso em todo cóidgo
+const -> após criar não consigo mais trocar o valor da variável, imutavel.Nunca posso criar uma const sem atrelar um valor a ela. Também tem o escopo de bloco do let.
+
